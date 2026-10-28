@@ -831,6 +831,7 @@
 #include "code\game\objects\structures\memorial.dm"
 #include "code\game\objects\structures\mineral_doors.dm"
 #include "code\game\objects\structures\mirror.dm"
+#include "code\game\objects\structures\mounts_plaques.dm"
 #include "code\game\objects\structures\musician.dm"
 #include "code\game\objects\structures\noticeboard.dm"
 #include "code\game\objects\structures\pillory.dm"
