@@ -2718,16 +2718,6 @@
 	icon_state = "wooden_floort"
 	},
 /area/rogue)
-"aiU" = (
-/obj/effect/landmark/latejoin,
-/obj/structure/warningbell/fluff{
-	pixel_y = 16
-	},
-/turf/open/floor/rogue/ruinedwood{
-	icon_state = "wooden_floor2";
-	dir = 1
-	},
-/area/rogue)
 "aiV" = (
 /obj/machinery/light/rogue/torchholder{
 	icon_state = "torchwall1";
@@ -7441,10 +7431,6 @@
 /turf/open/floor/rogue/herringbone,
 /area/rogue)
 "axe" = (
-/obj/item/reagent_containers/food/snacks/cracker,
-/obj/item/reagent_containers/food/snacks/cracker,
-/obj/item/reagent_containers/food/snacks/cracker,
-/obj/item/reagent_containers/food/snacks/cracker,
 /obj/structure/closet/crate/chest,
 /turf/open/floor/rogue/herringbone,
 /area/rogue)
@@ -10531,17 +10517,6 @@
 /obj/item/needle/thorn,
 /turf/open/floor/rogue/hexstone,
 /area/rogue/indoors/town/church/chapel)
-"aHc" = (
-/obj/structure/chair/wood/rogue{
-	icon_state = "chair2";
-	dir = 4
-	},
-/obj/effect/landmark/start/churchling{
-	icon_state = "arrow";
-	dir = 4
-	},
-/turf/open/floor/rogue/hexstone,
-/area/rogue/indoors/town/church/chapel)
 "aHd" = (
 /turf/closed/wall/mineral/rogue/wooddark,
 /area/rogue/indoors/town/church/chapel)
@@ -10555,17 +10530,6 @@
 /turf/open/floor/rogue/ruinedwood{
 	icon_state = "horzw"
 	},
-/area/rogue/indoors/town/church/chapel)
-"aHg" = (
-/obj/structure/chair/wood/rogue{
-	icon_state = "chair2";
-	dir = 8
-	},
-/obj/effect/landmark/start/churchling{
-	icon_state = "arrow";
-	dir = 8
-	},
-/turf/open/floor/rogue/hexstone,
 /area/rogue/indoors/town/church/chapel)
 "aHh" = (
 /obj/structure/stairs{
@@ -11131,13 +11095,6 @@
 	},
 /turf/open/floor/rogue/herringbone,
 /area/rogue/indoors/town)
-"aJn" = (
-/obj/effect/landmark/start/orphan{
-	icon_state = "arrow";
-	dir = 1
-	},
-/turf/open/floor/rogue/cobble,
-/area/rogue/outdoors/town)
 "aJo" = (
 /obj/structure/fluff/walldeco/chains,
 /turf/open/floor/rogue/concrete,
@@ -13415,11 +13372,6 @@
 /obj/structure/closet/dirthole/closed/loot,
 /turf/open/floor/rogue/dirt,
 /area/rogue/outdoors/rtfield)
-"rmz" = (
-/obj/structure/closet/crate/chest/lootbox,
-/obj/item/clothing/head/griffin,
-/turf/open/floor/rogue/dirt/road,
-/area/rogue/under/cave)
 "rnz" = (
 /turf/closed/mineral/rogue/bedrock,
 /area/rogue/under/cavewet)
@@ -44114,7 +44066,7 @@ nXu
 nXu
 iDL
 nXu
-rmz
+hSf
 fJj
 fJj
 fJj
@@ -103283,7 +103235,7 @@ azi
 azi
 aFY
 aFY
-aJn
+aFY
 azi
 azi
 azi
@@ -105544,7 +105496,7 @@ agn
 agP
 ahK
 aiB
-aHc
+aHl
 aHl
 aHw
 aHB
@@ -108114,7 +108066,7 @@ agP
 agP
 ahJ
 aHb
-aHg
+aHt
 aHt
 aHw
 aHw
@@ -130249,7 +130201,7 @@ rZJ
 rZJ
 aiN
 gvU
-aiU
+aiM
 aiM
 gvU
 aiZ

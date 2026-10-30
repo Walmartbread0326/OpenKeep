@@ -3474,7 +3474,6 @@
 /obj/machinery/light/rogue/torchholder/l,
 /obj/structure/rack/rogue/shelf/biggest,
 /obj/item/clothing/neck/roguetown/coif,
-/obj/item/clothing/mask/bandana/black,
 /turf/open/floor/rogue/ruinedwood/spiral,
 /area/rogue/indoors/town/shop)
 "nj" = (
@@ -5872,10 +5871,6 @@
 	dir = 4
 	},
 /area/rogue/outdoors/river)
-"ww" = (
-/obj/structure/chair/stool/rogue,
-/turf/open/floor/rogue/ruinedwood/turned,
-/area/rogue/indoors/town)
 "wx" = (
 /turf/closed/wall/mineral/rogue/stonebrick,
 /area/rogue/indoors/town/manor)
@@ -8785,10 +8780,6 @@
 	},
 /turf/open/floor/rogue/ruinedwood/turned,
 /area/rogue/outdoors/town)
-"HI" = (
-/obj/structure/chair/stool/rogue,
-/turf/open/floor/rogue/ruinedwood/turned,
-/area/rogue/indoors/town)
 "HJ" = (
 /turf/closed/wall/mineral/rogue/wooddark/end{
 	dir = 8
@@ -9550,10 +9541,6 @@
 "Kr" = (
 /turf/open/transparent/openspace,
 /area/rogue/outdoors/exposed/manorgarri)
-"Kt" = (
-/obj/structure/chair/stool/rogue,
-/turf/open/floor/rogue/wood,
-/area/rogue/indoors/town/tavern)
 "Ku" = (
 /obj/effect/spawner/roguemap/treeorstump,
 /turf/open/floor/rogue/dirt/road,
@@ -10491,15 +10478,6 @@
 	},
 /turf/open/floor/rogue/ruinedwood/turned,
 /area/rogue/indoors/town/dwarfin)
-"Oe" = (
-/obj/effect/portal/wormhole{
-	icon = 'icons/roguetown/misc/structure.dmi';
-	icon_state = "shitportal";
-	name = "Portal";
-	teleport_channel = "wizard"
-	},
-/turf/open/floor/carpet/purple,
-/area/rogue/indoors/town/magician)
 "Of" = (
 /obj/structure/rack/rogue,
 /obj/item/rogueweapon/mace/woodclub,
@@ -11681,15 +11659,6 @@
 /obj/structure/fluff/clock,
 /turf/open/floor/carpet/purple,
 /area/rogue/indoors/town/magician)
-"Sy" = (
-/obj/effect/portal/wormhole{
-	icon = 'icons/roguetown/misc/structure.dmi';
-	icon_state = "shitportal";
-	name = "Portal";
-	teleport_channel = "wizard"
-	},
-/turf/open/floor/rogue/herringbone,
-/area/rogue/indoors/town/manor)
 "Sz" = (
 /obj/machinery/light/rogue/torchholder/r,
 /turf/open/floor/rogue/dirt/road,
@@ -51016,7 +50985,7 @@ ik
 Wl
 tk
 tk
-ww
+cY
 tk
 tk
 Wl
@@ -51172,9 +51141,9 @@ ej
 ej
 FR
 tk
-HI
+cY
 nl
-HI
+cY
 Cc
 Wl
 ps
@@ -73280,7 +73249,7 @@ rw
 sI
 Gw
 sI
-Kt
+Vy
 BG
 jf
 nS
@@ -101173,7 +101142,7 @@ Wa
 uw
 wx
 Pl
-Sy
+lq
 lq
 CL
 VR
@@ -102100,7 +102069,7 @@ GI
 Sx
 eg
 eg
-Oe
+ch
 ch
 GI
 GI
