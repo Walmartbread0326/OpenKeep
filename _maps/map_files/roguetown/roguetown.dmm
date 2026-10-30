@@ -1220,9 +1220,6 @@
 /obj/structure/closet/crate/roguecloset,
 /turf/open/floor/rogue/woodturned,
 /area/rogue/indoors/town)
-"bst" = (
-/turf/open/floor/rogue/ruinedwood,
-/area/rogue/indoors/town)
 "btq" = (
 /obj/item/roguebin/water/gross,
 /turf/open/floor/rogue/woodturned,
@@ -4225,9 +4222,6 @@
 	icon_state = "horzw"
 	},
 /area/rogue/indoors)
-"eAq" = (
-/turf/open/floor/rogue/blocks/bluestone,
-/area/rogue/indoors/town)
 "eAU" = (
 /obj/structure/mineral_door/wood/deadbolt{
 	dir = 1;
@@ -4246,8 +4240,8 @@
 /turf/open/floor/rogue/blocks/stonered/tiny,
 /area/rogue/indoors/town/dwarfin)
 "eCo" = (
-/obj/structure/barricade/wooden/rogue,
-/obj/structure/barricade/wooden/rogue/crude,
+/obj/structure/barricade/rogue,
+/obj/structure/barricade/rogue/crude,
 /turf/open/floor/rogue/dirt,
 /area/rogue/under/town/sewer)
 "eCq" = (
@@ -4358,7 +4352,6 @@
 /area/rogue/indoors/town/manor)
 "eGP" = (
 /obj/structure/flora/ausbushes/leafybush,
-/obj/structure/flora/bush,
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/town)
 "eHb" = (
@@ -5051,7 +5044,6 @@
 /area/rogue/outdoors/town)
 "ftR" = (
 /obj/structure/table/wood,
-/obj/item/ship_in_a_bottle,
 /turf/open/floor/rogue/wood,
 /area/rogue/indoors/town/magician)
 "fup" = (
@@ -15902,12 +15894,12 @@
 /area/rogue/under/town/sewer)
 "rce" = (
 /obj/structure/rack/rogue,
-/obj/item/kitchen/spoon/plastic,
-/obj/item/kitchen/spoon/plastic,
-/obj/item/kitchen/spoon/plastic,
-/obj/item/kitchen/spoon/plastic,
-/obj/item/kitchen/spoon/plastic,
-/obj/item/kitchen/spoon/plastic,
+/obj/item/kitchen/spoon,
+/obj/item/kitchen/spoon,
+/obj/item/kitchen/spoon,
+/obj/item/kitchen/spoon,
+/obj/item/kitchen/spoon,
+/obj/item/kitchen/spoon,
 /turf/open/floor/rogue/ruinedwood/spiralfade,
 /area/rogue/indoors/town/tavern)
 "rcp" = (
@@ -21031,7 +21023,7 @@
 "wGM" = (
 /obj/structure/closet/crate/roguecloset/inn,
 /obj/item/reagent_containers/powder/spice,
-/obj/item/storage/storage/keyring,
+/obj/item/storage/keyring,
 /obj/item/roguekey/merchant,
 /obj/item/clothing/suit/roguetown/shirt/tunic/random,
 /turf/open/floor/rogue/wood,
@@ -21391,7 +21383,6 @@
 	dir = 10;
 	icon_state = "largetable"
 	},
-/obj/item/clothing/mask/bandana/black,
 /obj/item/clothing/neck/roguetown/coif,
 /turf/open/floor/rogue/wood,
 /area/rogue/indoors/town/shop)
@@ -59462,7 +59453,7 @@ bXO
 iUq
 gwA
 iac
-bst
+iac
 iac
 vlU
 qek
@@ -59776,7 +59767,7 @@ tDt
 iUq
 kYG
 jmH
-eAq
+jmH
 jmH
 sZF
 sZF
@@ -60247,7 +60238,7 @@ iUq
 iUq
 gwA
 iac
-bst
+iac
 ejb
 lyL
 qBg

@@ -3943,7 +3943,7 @@
 /area/rogue/outdoors/exposed/manorgarri)
 "dXk" = (
 /obj/structure/table/wood/plain_alt,
-/obj/item/kitchen/spoon/plastic{
+/obj/item/kitchen/spoon{
 	pixel_x = 9;
 	pixel_y = 4
 	},
@@ -16375,12 +16375,12 @@
 	locked = 0;
 	lockid = null
 	},
-/obj/item/kitchen/spoon/plastic,
-/obj/item/kitchen/spoon/plastic,
-/obj/item/kitchen/spoon/plastic,
-/obj/item/kitchen/spoon/plastic,
-/obj/item/kitchen/spoon/plastic,
-/obj/item/kitchen/spoon/plastic,
+/obj/item/kitchen/spoon,
+/obj/item/kitchen/spoon,
+/obj/item/kitchen/spoon,
+/obj/item/kitchen/spoon,
+/obj/item/kitchen/spoon,
+/obj/item/kitchen/spoon,
 /obj/item/reagent_containers/glass/bowl,
 /obj/item/reagent_containers/glass/bowl,
 /obj/item/reagent_containers/glass/bowl,
