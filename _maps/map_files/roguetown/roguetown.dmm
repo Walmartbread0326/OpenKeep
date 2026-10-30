@@ -1220,6 +1220,9 @@
 /obj/structure/closet/crate/roguecloset,
 /turf/open/floor/rogue/woodturned,
 /area/rogue/indoors/town)
+"bst" = (
+/turf/open/floor/rogue/ruinedwood,
+/area/rogue/indoors/town)
 "btq" = (
 /obj/item/roguebin/water/gross,
 /turf/open/floor/rogue/woodturned,
@@ -4222,6 +4225,9 @@
 	icon_state = "horzw"
 	},
 /area/rogue/indoors)
+"eAq" = (
+/turf/open/floor/rogue/blocks/bluestone,
+/area/rogue/indoors/town)
 "eAU" = (
 /obj/structure/mineral_door/wood/deadbolt{
 	dir = 1;
@@ -7487,9 +7493,6 @@
 	},
 /turf/open/floor/rogue/ruinedwood/spiral,
 /area/rogue/indoors/town/tavern)
-"iac" = (
-/turf/open/floor/rogue/ruinedwood,
-/area/rogue/indoors/town)
 "iad" = (
 /obj/effect/decal/cleanable/dirt/cobweb,
 /turf/open/floor/rogue/woodturned,
@@ -8519,9 +8522,6 @@
 /area/rogue/indoors/shelter/town/sargoth)
 "jmy" = (
 /turf/closed/wall/mineral/rogue/stone,
-/area/rogue/indoors/town)
-"jmH" = (
-/turf/open/floor/rogue/blocks/bluestone,
 /area/rogue/indoors/town)
 "jnB" = (
 /turf/closed/wall/mineral/rogue/craftstone,
@@ -56125,8 +56125,8 @@ vjI
 cyz
 eSf
 mip
-iac
-iac
+bst
+bst
 uNu
 iUq
 uQz
@@ -56283,7 +56283,7 @@ cyz
 cyz
 uNu
 izm
-iac
+bst
 uNu
 iUq
 uQz
@@ -56439,8 +56439,8 @@ dGV
 vCk
 vCk
 tgV
-iac
-iac
+bst
+bst
 uNu
 tDt
 uQz
@@ -59139,10 +59139,10 @@ tDt
 iUq
 gwA
 qrW
-iac
-iac
-iac
-iac
+bst
+bst
+bst
+bst
 agS
 dCX
 gwA
@@ -59295,13 +59295,13 @@ iUq
 iUq
 iUq
 gwA
-iac
-iac
+bst
+bst
 utw
-iac
-iac
+bst
+bst
 utw
-iac
+bst
 gwA
 iUq
 pqE
@@ -59452,9 +59452,9 @@ iUq
 bXO
 iUq
 gwA
-iac
-iac
-iac
+bst
+bst
+bst
 vlU
 qek
 qek
@@ -59609,9 +59609,9 @@ iUq
 iUq
 iUq
 kYG
-jmH
-jmH
-jmH
+eAq
+eAq
+eAq
 sZF
 sZF
 sZF
@@ -59766,9 +59766,9 @@ xDQ
 tDt
 iUq
 kYG
-jmH
-jmH
-jmH
+eAq
+eAq
+eAq
 sZF
 sZF
 sZF
@@ -59923,9 +59923,9 @@ iUq
 bXO
 iUq
 kYG
-jmH
-jmH
-jmH
+eAq
+eAq
+eAq
 sZF
 sZF
 sZF
@@ -60080,9 +60080,9 @@ iUq
 tDt
 iUq
 kYG
-jmH
-jmH
-jmH
+eAq
+eAq
+eAq
 sZF
 sZF
 sZF
@@ -60237,8 +60237,8 @@ nvO
 iUq
 iUq
 gwA
-iac
-iac
+bst
+bst
 ejb
 lyL
 qBg
@@ -60395,11 +60395,11 @@ bXO
 iUq
 gwA
 agS
-iac
-iac
+bst
+bst
 utw
 utw
-iac
+bst
 agS
 gwA
 iUq
@@ -60552,11 +60552,11 @@ iUq
 iUq
 gwA
 xdJ
-iac
-iac
-iac
-iac
-iac
+bst
+bst
+bst
+bst
+bst
 agS
 gwA
 iUq
@@ -60709,11 +60709,11 @@ iUq
 iUq
 gwA
 gwA
-iac
+bst
 ntm
 xjz
 xjz
-iac
+bst
 agS
 gwA
 iUq

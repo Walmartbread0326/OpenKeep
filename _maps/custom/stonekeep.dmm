@@ -1207,7 +1207,6 @@
 	icon_state = "chair2";
 	dir = 4
 	},
-/turf/open/floor/carpet/purple/airless,
 /area/rogue/indoors/town/tavern)
 "ev" = (
 /obj/structure/table/wood{
@@ -3757,7 +3756,6 @@
 	icon_state = "chair2";
 	dir = 8
 	},
-/turf/open/floor/carpet/purple/airless,
 /area/rogue/indoors/town/tavern)
 "nl" = (
 /obj/machinery/light/rogue/firebowl/stump,
@@ -3894,10 +3892,6 @@
 /obj/effect/landmark/start/priest,
 /turf/open/floor/rogue/churchrough,
 /area/rogue/indoors/town/church/chapel)
-"nN" = (
-/obj/effect/landmark/start/orphan,
-/turf/open/floor/rogue/church,
-/area/rogue/indoors/town/church/chapel)
 "nO" = (
 /obj/machinery/light/rogue/torchholder/r,
 /obj/effect/landmark/start/guardsman{
@@ -4025,7 +4019,6 @@
 /obj/item/roguekey/garrison,
 /obj/item/roguekey/mason,
 /obj/item/roguekey/mercenary,
-/obj/item/roguekey/nightmaiden,
 /obj/item/roguekey/tavern,
 /obj/item/roguekey/merchant,
 /turf/open/floor/rogue/tile/tilerg,
@@ -4193,10 +4186,6 @@
 	},
 /turf/open/floor/rogue/blocks/stonered/tiny,
 /area/rogue/indoors/town/bath)
-"oQ" = (
-/obj/effect/landmark/start/churchling,
-/turf/open/floor/rogue/church,
-/area/rogue/indoors/town/church/chapel)
 "oR" = (
 /obj/structure/table/wood{
 	icon_state = "tablewood2";
@@ -5270,7 +5259,6 @@
 /turf/open/floor/rogue/wood,
 /area/rogue/indoors/town/tavern)
 "sQ" = (
-/turf/open/floor/carpet/purple/airless,
 /area/rogue/indoors/town/tavern)
 "sR" = (
 /obj/structure/bed/rogue/hay,
@@ -5699,7 +5687,6 @@
 	icon_state = "largetable";
 	dir = 10
 	},
-/obj/item/clothing/mask/bandana/black,
 /obj/item/clothing/neck/roguetown/coif,
 /turf/open/floor/rogue/wood,
 /area/rogue/indoors/town/shop)
@@ -7346,7 +7333,6 @@
 /area/rogue/indoors/town/tavern)
 "AP" = (
 /obj/structure/table/wood/fancy/blue,
-/turf/open/floor/carpet/purple/airless,
 /area/rogue/indoors/town/tavern)
 "AQ" = (
 /obj/structure/mineral_door/wood{
@@ -7652,7 +7638,6 @@
 	icon_state = "torchwall1";
 	dir = 8
 	},
-/turf/open/floor/carpet/purple/airless,
 /area/rogue/indoors/town/tavern)
 "BP" = (
 /turf/closed/wall/mineral/rogue/roofwall/outercorner{
@@ -12059,7 +12044,6 @@
 	icon_state = "chair2";
 	dir = 1
 	},
-/turf/open/floor/carpet/purple/airless,
 /area/rogue/indoors/town/tavern)
 "SH" = (
 /obj/structure/table/wood{
@@ -13160,10 +13144,6 @@
 	icon_state = "largetable";
 	dir = 5
 	},
-/obj/item/roguekey/nightmaiden,
-/obj/item/roguekey/nightmaiden,
-/obj/item/roguekey/nightmaiden,
-/obj/item/roguekey/nightmaiden,
 /turf/open/floor/rogue/blocks/stonered/tiny,
 /area/rogue/indoors/town/bath)
 "Xn" = (
@@ -59633,7 +59613,7 @@ Fw
 FG
 FQ
 Gb
-nN
+Fm
 oT
 vD
 oT
@@ -59947,7 +59927,7 @@ Fw
 FG
 FS
 Gd
-nN
+Fm
 ik
 pl
 ik
@@ -60261,7 +60241,7 @@ Fw
 Fm
 FG
 Ga
-oQ
+Fm
 oT
 vD
 oT
