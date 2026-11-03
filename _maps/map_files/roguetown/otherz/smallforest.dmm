@@ -143,8 +143,6 @@
 /obj/structure/fluff/statue/gargoyle/moss,
 /turf/open/floor/rogue/dirt,
 /area/rogue/outdoors/woods)
-"aO" = (
-/area/rogue/outdoors/woods)
 "aP" = (
 /obj/structure/chair/bench/ancientlog,
 /turf/open/floor/rogue/dirt,
@@ -15071,7 +15069,7 @@ Jc
 sN
 aH
 aN
-aO
+Vh
 Vh
 Vh
 Lu
