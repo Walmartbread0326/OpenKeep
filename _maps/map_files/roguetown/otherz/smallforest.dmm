@@ -207,12 +207,6 @@
 "fk" = (
 /turf/closed/wall/mineral/rogue/wooddark,
 /area/rogue/outdoors/river)
-"fA" = (
-/turf/open/water/river{
-	dir = 4;
-	icon_state = "rockwd"
-	},
-/area/rogue/outdoors/woods)
 "fB" = (
 /obj/structure/fluff/railing/fence{
 	dir = 8
@@ -3527,9 +3521,9 @@ ad
 ad
 ad
 ad
-aq
-aq
-aq
+ad
+ad
+ad
 aF
 aF
 aF
@@ -3657,9 +3651,9 @@ ad
 ad
 ad
 ad
-aq
-aq
-aq
+ad
+ad
+ad
 ag
 ag
 aF
@@ -3787,9 +3781,9 @@ ad
 ad
 ad
 ad
-aq
-aq
-aq
+ad
+ad
+ad
 aB
 au
 ac
@@ -3919,14 +3913,14 @@ ad
 ad
 ad
 ad
-aq
 ad
 ad
 ad
 ad
-aq
-aq
-aq
+ad
+ad
+ad
+ad
 ae
 ae
 "}
@@ -4054,9 +4048,9 @@ ad
 ad
 ad
 ad
-aq
-aq
-aq
+ad
+ad
+ad
 ac
 ac
 "}
@@ -4184,9 +4178,9 @@ ad
 ad
 ad
 ad
-aq
-aq
-aq
+ad
+ad
+ad
 ac
 ac
 "}
@@ -4316,7 +4310,7 @@ ad
 ad
 ad
 ad
-aq
+ad
 ad
 ad
 "}
@@ -16271,7 +16265,7 @@ sN
 sN
 Jc
 Lu
-fA
+Vh
 Lu
 Jc
 ab
@@ -16401,7 +16395,7 @@ sN
 Jc
 Jc
 Lu
-fA
+Vh
 Lu
 ai
 ub
@@ -16531,7 +16525,7 @@ sN
 dI
 dI
 Lu
-fA
+Vh
 Lu
 Jc
 ab
@@ -16662,7 +16656,7 @@ dI
 dI
 dI
 Vh
-fA
+Vh
 Lu
 ub
 ab
@@ -16792,7 +16786,7 @@ dI
 dI
 dI
 Lu
-fA
+Vh
 Lu
 ub
 ab
@@ -16922,7 +16916,7 @@ dI
 dI
 dI
 Lu
-fA
+Vh
 Lu
 ab
 ab
@@ -17052,7 +17046,7 @@ dI
 dI
 dI
 Lu
-fA
+Vh
 Lu
 ab
 ab
@@ -17182,7 +17176,7 @@ dI
 dI
 dI
 Lu
-fA
+Vh
 Lu
 ab
 ab
@@ -17312,7 +17306,7 @@ dI
 dI
 dI
 Lu
-fA
+Vh
 Vz
 PG
 PG
