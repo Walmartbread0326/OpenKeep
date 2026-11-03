@@ -22,7 +22,7 @@ SUBSYSTEM_DEF(crediticons)
 			if (MC_TICK_CHECK)
 				return
 			continue
-		add_credit()
+		add_credit(thing)
 		STOP_PROCESSING(SScrediticons, thing)
 		if(MC_TICK_CHECK)
 			return
