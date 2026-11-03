@@ -155,7 +155,6 @@
 /area/rogue/indoors/town/dwarfin)
 "eB" = (
 /obj/structure/table/wood/reinforced,
-/obj/item/ship_in_a_bottle,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/rogue/concrete,
 /area/rogue/under/cavelava)
@@ -486,7 +485,6 @@
 /turf/open/floor/rogue/dirt/road,
 /area/rogue/outdoors/mountains/decap)
 "mi" = (
-/obj/structure/barricade/,
 /obj/structure/barricade/rogue/crude,
 /turf/open/floor/rogue/cobblerock,
 /area/rogue/outdoors/caves)
