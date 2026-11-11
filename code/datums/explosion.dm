@@ -213,6 +213,7 @@ GLOBAL_LIST_EMPTY(explosions)
 			dist = EXPLODE_NONE
 
 		//------- EX_ACT AND TURF FIRES -------
+		var/atom/target = null
 		if(T == epicenter) // Ensures explosives detonating from bags trigger other explosives in that bag
 			var/list/items = list()
 			for(var/I in T)
@@ -222,7 +223,7 @@ GLOBAL_LIST_EMPTY(explosions)
 			for(var/O in items)
 				var/atom/A = O
 				if(!QDELETED(A))
-					A.ex_act(dist, null, epicenter, devastation_range, heavy_impact_range, light_impact_range, flame_range)
+					A.ex_act(dist, target, epicenter, devastation_range, heavy_impact_range, light_impact_range, flame_range)
 
 		if(hotspot_dist)
 			new /obj/effect/hotspot(T) //burning turf!
@@ -230,7 +231,7 @@ GLOBAL_LIST_EMPTY(explosions)
 		if(dist > EXPLODE_NONE)
 			T.explosion_level = max(T.explosion_level, dist)	//let the bigger one have it
 			T.explosion_id = id
-			T.ex_act(dist, null, epicenter, devastation_range, heavy_impact_range, light_impact_range, flame_range)
+			T.ex_act(dist, target, epicenter, devastation_range, heavy_impact_range, light_impact_range, flame_range)
 			exploded_this_tick += T
 
 		//--- THROW ITEMS AROUND ---
